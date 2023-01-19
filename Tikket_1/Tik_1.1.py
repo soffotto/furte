@@ -3,4 +3,6 @@ for i in range(10):
 
 a = 5
 b = 3
-print( a + b )
+print(a + b)
+
+print(a**2)
